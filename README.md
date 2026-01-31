@@ -2,9 +2,7 @@
 
 I'm **Ashok**, a Computer Science learner and aspiring Software Engineer.  
 
-I build projects that strengthen my fundamentals and turn ideas into working solutions.  
-
-If a problem catches my interest, chances are I’ll analyze it, code it, and optimize it.  
+I enjoy building projects and turning ideas into real applications. 
 
 My main technical focus includes **Python,Java, SQL, Data Structures & Algorithms (DSA), DBMS, OOPS, Computer Networks, Operating Systems, and Cloud fundamentals**. 
 
