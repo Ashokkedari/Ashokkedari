@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Ashok  
-
-I'm a **Computer Science learner and aspiring Software Engineer** who enjoys building projects and strengthening core technical fundamentals.<br/><br/> I focus on converting ideas into practical implementations while continuously improving my problem-solving skills.
+# Hi there 👋
+I'm **Ashok** who enjoys building projects and increase core technical fundamentals.<br/><br/> 
+I converts ideas into practical implementation
 
 ## 🚀 Technical Skills  
 - **Programming:** Python, SQL  
