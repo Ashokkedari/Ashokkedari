@@ -1,13 +1,28 @@
-## Hi there 👋
-Hey there! 👋 I'm Ashok, a Computer Science learner and aspiring Software Engineer.
-I enjoy building projects that strengthen my fundamentals and convert ideas into practical applications.
+# Hi there 👋 I'm Ashok  
 
-My core technical focus includes DSA, Python, SQL, DBMS, OOPS, Computer Networks, and Cloud fundamentals.
-I actively practice problem-solving and develop mini-projects to improve system design thinking and coding efficiency.
+I'm a **Computer Science learner and aspiring Software Engineer** who enjoys building projects and strengthening core technical fundamentals. I focus on converting ideas into practical implementations while continuously improving my problem-solving skills.
 
-You’ll find a collection of academic, practice, and project-based repositories on my profile that reflect my learning journey and technical growth.
+## 🚀 Technical Skills  
+- **Programming:** Python, SQL  
+- **Core CS:** DSA, DBMS, OOPS, Computer Networks, Operating Systems  
+- **Tools & Platforms:** Git, GitHub, Cloud Fundamentals  
+- **Problem Solving:** Competitive coding and logic building  
 
-Interests & Hobbies:
-• Coding and software architecture
-• Fitness and self-improvement
-• Learning new technologies and tools
+## 📌 What You'll Find Here  
+- Practice repositories for **DSA and Core CS concepts**  
+- Mini projects and academic implementations  
+- Hands-on experiments with databases and cloud basics  
+
+## 🎯 Current Focus  
+- Preparing for **software engineering placements and assessments**  
+- Improving coding efficiency and system understanding  
+- Building real-world oriented projects  
+
+## 💡 Interests & Hobbies  
+- Coding and technology exploration  
+- Fitness and self-improvement  
+- Learning new tools and frameworks  
+
+## 📫 Let's Connect  
+Feel free to explore my repositories and connect with me.  
+Always open to learning, collaboration, and growth 🚀  
