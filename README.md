@@ -16,5 +16,5 @@ If you want to see how I learn and build, feel free to explore my repositories!
 
 ### Fun Interests: 
 - 🏋️ Gym and fitness focused  
-- 🚀 Interested in building real-world software systems  
+- 🚀 Interested in creating ML projects 
 - 📚 Enjoy learning new technologies and improving fundamentals  
