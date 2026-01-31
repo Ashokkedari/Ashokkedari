@@ -1,28 +1,21 @@
-# Hi there 👋
-I'm **Ashok** who enjoys building projects and increase core technical fundamentals.<br/><br/> 
-I converts ideas into practical implementation
+## Hey there! 👋  
 
-## 🚀 Technical Skills  
-- **Programming:** Python, SQL  
-- **Core CS:** DSA, DBMS, OOPS, Computer Networks, Operating Systems  
-- **Tools & Platforms:** Git, GitHub, Cloud Fundamentals  
-- **Problem Solving:** Competitive coding and logic building  
+I'm **Ashok**, a Computer Science learner and aspiring Software Engineer.  
+I build projects that strengthen my fundamentals and turn ideas into working solutions.  
 
-## 📌 What You'll Find Here  
-- Practice repositories for **DSA and Core CS concepts**  
-- Mini projects and academic implementations  
-- Hands-on experiments with databases and cloud basics  
+If a problem catches my interest, chances are I’ll analyze it, code it, and optimize it.  
 
-## 🎯 Current Focus  
-- Preparing for **software engineering placements and assessments**  
-- Improving coding efficiency and system understanding  
-- Building real-world oriented projects  
+My main technical focus includes **Python, SQL, DSA, DBMS, OOPS, Computer Networks, and Cloud fundamentals**.  
+My favorite tools are **VS Code, GitHub, and debugging tools** for clean and efficient development.  
 
-## 💡 Interests & Hobbies  
-- Coding and technology exploration  
-- Fitness and self-improvement  
-- Learning new tools and frameworks  
+I've got multiple pinned repositories, but my favorites include **DSA practice projects and mini system implementations**.  
 
-## 📫 Let's Connect  
-Feel free to explore my repositories and connect with me.  
-Always open to learning, collaboration, and growth 🚀  
+I've built several public repositories — and privately, I'm constantly experimenting and improving my skills.  
+
+If you want to see how I learn and build, feel free to explore my repositories!  
+
+### Fun Facts:
+- 💻 Tech and coding enthusiast  
+- 🏋️ Gym and fitness focused  
+- 🚀 Interested in building real-world software systems  
+- 📚 Enjoy learning new technologies and improving fundamentals  
