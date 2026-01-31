@@ -4,7 +4,7 @@ I'm **Ashok**, a Computer Science learner and aspiring Software Engineer.
 
 I enjoy building projects and turning ideas into real applications. 
 
-My main technical focus includes **Python,Java, SQL, Data Structures & Algorithms (DSA), DBMS, OOPS, Computer Networks, Operating Systems, and Cloud fundamentals**. 
+My main technical focus includes **Python,Java, SQL, Data Structures & Algorithms (DSA), Web Technologies, DBMS, OOPS, Computer Networks, Operating Systems, and Cloud fundamentals**. 
 
 I also have hands-on exposure to **Machine Learning basics and Data Analytics concepts** through certifications and practice projects.   
 
